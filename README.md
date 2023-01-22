@@ -9,15 +9,6 @@ UmairThakur/UmairThakur is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h2 align="center">
-  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
-   I'm <a href="https://www.linkedin.com/in/umairthakur/">Umair Thakur</a>! 
-</h2>
-
-<h4 align='center'>
- Data Science Enthusiast
-</h4>
-
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=UmairThakur&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=UmairThakur&include_all_commits=true&hide_border=true&theme=dark"/>
