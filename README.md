@@ -1,8 +1,8 @@
 ![UmairThakur_Welcomes_You](https://user-images.githubusercontent.com/81063457/214100291-4f1268ce-693a-4a21-8f08-f2f52e257bdc.png)
 
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 💞️ I’m looking to collaborate on AI/ML Projects
 - 📫 How to reach me - https://www.linkedin.com/in/umairthakur/ 
 
 <!---
