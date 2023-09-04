@@ -1,4 +1,5 @@
-![UmairThakur_Welcomes_You](https://user-images.githubusercontent.com/81063457/214100291-4f1268ce-693a-4a21-8f08-f2f52e257bdc.png)
+<!---![UmairThakur_Welcomes_You](https://user-images.githubusercontent.com/81063457/214100291-4f1268ce-693a-4a21-8f08-f2f52e257bdc.png)
+--->
 
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Data Science
