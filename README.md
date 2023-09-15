@@ -5,8 +5,6 @@
 - 💞️ I’m looking to collaborate on AI/ML Projects
 - 📫 How to reach me - https://www.linkedin.com/in/umairthakur/ 
 --->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UmairThakur&style=flat&color=blueviolet" alt=UmairThakur/> </p>
 <br>
 
 
@@ -14,7 +12,7 @@
 UmairThakur/UmairThakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
 <p align="center">
-	<img width="350em" src="https://github-readme-streak-stats.herokuapp.com/?user=UmairThakur&include_all_commits=true&hide_border=true&theme=radical&layout=compact"/>
+	<img width="350em" src="https://github-readme-streak-stats.herokuapp.com/?user=UmairThakur&include_all_commits=true&hide_border=true&theme=radical&layout=compact" />
 	<img width="350em" src="https://github-readme-stats.vercel.app/api?username=UmairThakur&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&layout=compact" />
 </p>
 
@@ -24,13 +22,14 @@ You can click the Preview link to take a look at your changes.--->
 	<img width="450em" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmairThakur&theme=radical&layout=compact" alt="UmairThakur" align="center" />
 	<img width="250em" src="https://github-readme-stats.vercel.app/api/top-langs?username=UmairThakur&show_icons=true&theme=radical&locale=en&layout=compact" alt="UmairThakur" align="center" />
 </p>
-<br>
 
 
 <!--<summary><b>🏆 Github Achievements</b></summary>--->
 <p align="center"> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img  height="90em" src="https://github-profile-trophy.vercel.app/?username=UmairThakur&theme=darkhub&column=7" alt="UmairThakur" />
-	</a> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img  height="90em" src="https://github-profile-trophy.vercel.app/?username=UmairThakur&theme=darkhub&column=7" alt="UmairThakur" /></a> 
 </p>
 <br>
+
+
+<!--- View Counts --->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=UmairThakur&style=flat&color=blueviolet" alt=UmairThakur/> </p>
