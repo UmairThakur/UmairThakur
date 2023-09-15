@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.--->
 
 <!--<summary><b>🏆 Github Achievements</b></summary>--->
 <p align="center"> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy"><img  height="90em" src="https://github-profile-trophy.vercel.app/?username=UmairThakur&theme=darkhub&column=7" alt="UmairThakur" /></a> 
+	<a href="https://github.com/ryo-ma/github-profile-trophy"><img  height="99em" src="https://github-profile-trophy.vercel.app/?username=UmairThakur&theme=darkhub&column=7" alt="UmairThakur" /></a> 
 </p>
 <br>
 
