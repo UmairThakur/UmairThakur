@@ -31,4 +31,4 @@ You can click the Preview link to take a look at your changes.--->
 </p>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UmairThakur&style=flat&color=blueviolet" alt=UmairThakur/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=UmairThakur&style=flat&color=blueviolet" alt=UmairThakur/> </p>
