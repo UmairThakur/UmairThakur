@@ -23,7 +23,11 @@ You can click the Preview link to take a look at your changes.
 
 <summary><b>🏆 Github Achievements</b></summary>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=UmairThakur&theme=darkhub&column=7" alt="UmairThakur" /></a> </p>
+<!---
 <p align="center"> <a href="https://github.com/UmairThakur"><img src="https://github-profile-trophy.vercel.app/?username=UmairThakur&margin-w=5&theme=radical" alt="UmairThakur" /></a> </p>
+--->
+
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UmairThakur&style=flat&color=blueviolet" alt=UmairThakur/> </p>
