@@ -10,9 +10,9 @@
 UmairThakur/UmairThakur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.--->
 <p align="center">
-	<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=UmairThakur&include_all_commits=true&hide_border=true&theme=radical"/>
-	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=UmairThakur&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" />
-	<img width="450em"/>
+	<img width="350em" src="https://github-readme-streak-stats.herokuapp.com/?user=UmairThakur&include_all_commits=true&hide_border=true&theme=radical"/>
+	<img width="350em" src="https://github-readme-stats.vercel.app/api?username=UmairThakur&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" />
+	<img width="350em"/>
 </p>
 <br>
 
